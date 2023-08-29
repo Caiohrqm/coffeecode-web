@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <NavBar />
       <main className="mx-44 flex justify-center">
-        <h1>Home</h1>
+        <h1>Login</h1>
       </main>
     </>
   );
